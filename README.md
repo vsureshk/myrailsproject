@@ -7,3 +7,9 @@ vb;nkbv;
 
 
 in the branch
+<<<<<<< HEAD
+=======
+
+
+hi i am in the branch
+>>>>>>> login
